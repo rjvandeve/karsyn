@@ -1,6 +1,3 @@
-# Ignore report outputs
-reports/
-
 # Python cache files
 __pycache__/
 *.py[cod]
